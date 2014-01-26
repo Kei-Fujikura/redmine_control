@@ -1,2 +1,2 @@
-redmine_control
+redmine_setup
 ===============

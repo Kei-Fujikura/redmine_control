@@ -1,0 +1,9 @@
+{
+    "issue" : {
+        "project_id" : "testproject",
+        "subject" : "あなたはそこにいますか?",
+        "status_id" : "1",
+        "description" : "わたしはここにいます",
+        "priority_id" : 1
+    }
+}
